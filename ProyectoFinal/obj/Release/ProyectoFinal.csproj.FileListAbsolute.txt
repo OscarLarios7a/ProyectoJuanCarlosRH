@@ -1,0 +1,13 @@
+C:\Users\juan_\Desktop\demo\ProyectoFinal\ProyectoFinal\bin\Release\ProyectoFinal.exe.config
+C:\Users\juan_\Desktop\demo\ProyectoFinal\ProyectoFinal\bin\Release\ProyectoFinal.exe
+C:\Users\juan_\Desktop\demo\ProyectoFinal\ProyectoFinal\bin\Release\ProyectoFinal.pdb
+C:\Users\juan_\Desktop\demo\ProyectoFinal\ProyectoFinal\bin\Release\objPersona.dll
+C:\Users\juan_\Desktop\demo\ProyectoFinal\ProyectoFinal\bin\Release\objPersona.pdb
+C:\Users\juan_\Desktop\demo\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\juan_\Desktop\demo\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.frmProyecto.resources
+C:\Users\juan_\Desktop\demo\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.Properties.Resources.resources
+C:\Users\juan_\Desktop\demo\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\juan_\Desktop\demo\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Desktop\demo\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.csproj.CopyComplete
+C:\Users\juan_\Desktop\demo\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.exe
+C:\Users\juan_\Desktop\demo\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.pdb
