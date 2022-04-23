@@ -55,6 +55,7 @@
     <Compile Include="Data\dtOftalmologico.cs" />
     <Compile Include="Data\dtPersonal.cs" />
     <Compile Include="DB\dbConexion.cs" />
+    <Compile Include="Modelo\mdAntecedentes.cs" />
     <Compile Include="Vista\Form1.cs">
       <SubType>Form</SubType>
     </Compile>

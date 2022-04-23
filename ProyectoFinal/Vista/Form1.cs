@@ -174,6 +174,7 @@ namespace ProyectoFinal
         private void btnRegistrar_Click(object sender, EventArgs e)
         {
             insertarPersona();
+            insertarAntecedente();
             
         }
         private void insertarPersona()
@@ -196,8 +197,39 @@ namespace ProyectoFinal
                 dtPersona.FNacimiento = Convert.ToDateTime( dtpFNacimiento.Text);
 
                 mdPersona.insertarPersona(dtPersona);
+                MessageBox.Show("Los Datos de Personal se han Guardado con Exito");
             }
            
+
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void insertarAntecedente()
+        {
+            dtAntecedentes dtAntecedente = new dtAntecedentes();
+            mdAntecedentes mdAntecedente = new mdAntecedentes();
+            try
+            {
+                //dtAntecedente.CodPersona = txtCodPersonal.Text;
+                dtAntecedente.Diabetico = txtDiabetico.Text;
+                dtAntecedente.Hipertenso = txtHipertenso.Text;
+                dtAntecedente.Cardiaco = txtCardiacos.Text;
+                dtAntecedente.Lagrimeo = txtLagrimeo.Text;
+                dtAntecedente.Otros = txtOtros.Text ;
+                dtAntecedente.AlergicoA = txtAlergico.Text ;
+                dtAntecedente.Medicamento = txtMedicamentos.Text;
+                dtAntecedente.Anestesico = txtAnestesicos.Text;
+                dtAntecedente.MedicamentoU = txtMedicamentosU.Text;
+                //dtAntecedente.Referido = txtReferido.Text;
+                //dtAntecedente.FNacimiento = Convert.ToDateTime(dtpFNacimiento.Text);
+
+                mdAntecedente.insertarAntecedentes(dtAntecedente);
+                MessageBox.Show("Los Datos de Antecedentes se han Guardado con Exito");
+            }
+
 
             catch (Exception ex)
             {

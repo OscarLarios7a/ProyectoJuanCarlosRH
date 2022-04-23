@@ -16,7 +16,6 @@ D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\ProyectoFinal\ProyectoFinal\o
 D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
 D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
 D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
-D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\ProyectoFinal\ProyectoFinal\bin\Debug\objPersona.dll
 D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\ProyectoFinal\ProyectoFinal\bin\Debug\objPersona.pdb
 D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojResolveAssemblyReference.cache
 D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmProyecto.resources
